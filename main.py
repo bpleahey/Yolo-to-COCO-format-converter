@@ -19,11 +19,16 @@ import imagesize
 YOLO_DARKNET_SUB_DIR = "YOLO_darknet"
 
 classes = [
-    "chair",
-    "handle",
-    "table",
-    "button",
-    "person",
+    "Animal",
+    "Canidae",
+    "Cervidae",
+    "Group",
+    "Person",
+    "Suidae",
+    "Leporidae",
+    "Trees",
+    "Rocks",
+    "Car"
 ]
 
 
